@@ -1,5 +1,7 @@
 # Description of run_analysis.R
 
+Author: Krish Kohir
+
 The run_analysis file reads the data for [Human Activity Recognition in Smartphones](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones) and creates a text file containing a data table of the average values of the variables in the data. 
 
 ## STEP 1: Download
